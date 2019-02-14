@@ -7,10 +7,10 @@
 -- Server version: 5.7.14
 -- PHP Version: 5.6.25
 
-drop database if exists jobexp;
-create database jobexp;
+drop database if exists internship-job-experience;
+create database internship-job-experience;
 
-USE jobexp;
+USE internship-job-experience;
 
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";

@@ -1,0 +1,12 @@
+People with no surname receive an error
+How to access as an admin 
+add job option in the dropdown
+notify the admin about new post
+notify the user when article accepted
+check filters
+add cookies for session maintainence
+change the logout option					done
+remove the line on the front page
+check pictue from google
+add a apply button for apply
+no bla bla yet
